@@ -1,0 +1,299 @@
+[
+  {
+    "id": 1,
+    "name": "Hydraulic Pump",
+    "image": "https://www.chrisbeardaps.co.uk/wp-content/uploads/2020/01/20.925339_1-e1714470035513.jpg",
+    "price": 1500,
+    "ratings": 4.5,
+    "review": "Reliable and durable under heavy use.",
+    "description": "High-performance hydraulic pump for excavators."
+  },
+  {
+    "id": 2,
+    "name": "Track Roller",
+    "image": "https://angopart.com/cdn/shop/products/331-43219.jpg?v=1695316859",
+    "price": 300,
+    "ratings": 4.2,
+    "review": "Smooth operation on all terrains.",
+    "description": "Bottom roller compatible with multiple bulldozer models."
+  },
+  {
+    "id": 3,
+    "name": "Engine Oil Filter",
+    "image": "https://shop.watling-jcb.com/cdn/shop/products/1frsRoSAng1iMaRaR1eIXZsh8uDosCjQr.jpg?v=1654637197",
+    "price": 45,
+    "ratings": 4.8,
+    "review": "Ensures clean oil flow.",
+    "description": "OEM oil filter for diesel engines in backhoes."
+  },
+  {
+    "id": 4,
+    "name": "Fuel Injector",
+    "image": "https://shop.watling-jcb.com/cdn/shop/products/320_06623_FUEL_INJECTOR_3.jpg?v=1691414864",
+    "price": 220,
+    "ratings": 4.4,
+    "review": "Excellent fuel atomization.",
+    "description": "Heavy-duty injector for construction machinery engines."
+  },
+  {
+    "id": 5,
+    "name": "Excavator Bucket",
+    "image": "https://5.imimg.com/data5/ET/VO/MY-33140603/jcb-teeth-bucket-500x500.jpg",
+    "price": 950,
+    "ratings": 4.6,
+    "review": "Great build quality and strength.",
+    "description": "Robust bucket for medium-size excavators."
+  },
+  {
+    "id": 6,
+    "name": "Cab Glass",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlphRUI1Gd4N3YBlSBYMxwJI_ETiDi_3aHYA&s",
+    "price": 180,
+    "ratings": 4.0,
+    "review": "Fits perfectly and clear visibility.",
+    "description": "Tempered safety glass for operator cabins."
+  },
+  {
+    "id": 7,
+    "name": "Brake Pad Set",
+    "image": "data:image/jpeg;base64,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",
+    "price": 75,
+    "ratings": 4.3,
+    "review": "Long-lasting and safe.",
+    "description": "Disc brake pads for construction trucks."
+  },
+  {
+    "id": 8,
+    "name": "Alternator",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBEInlW1-PzEeBD8s624iQW9RJJ0g4qbTJZg&s",
+    "price": 310,
+    "ratings": 4.7,
+    "review": "Keeps battery charged efficiently.",
+    "description": "High-output alternator for heavy equipment."
+  },
+  {
+    "id": 9,
+    "name": "Starter Motor",
+    "image": "https://5.imimg.com/data5/TJ/MH/UG/SELLER-3902331/f002g70002-jcb-starter-motor.jpg",
+    "price": 275,
+    "ratings": 4.5,
+    "review": "Starts engine in all conditions.",
+    "description": "Durable motor for diesel machinery."
+  },
+  {
+    "id": 10,
+    "name": "Radiator",
+    "image": "data:image/jpeg;base64,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zjI5/WwgAbPNtuWxzzmR7m2uwXtnu/P81xWcWFxkd3HqUhpmpGQqJ/bdfvvmnUmMvyxpSKkgC4c0G3SW5HttYdi1qbR58y/qnaO3YR/uyqVNXJJbWPe+2zE4m3eqYCXlFyr7QuiXF4MgDWjM3IubbrLMaZpIpC17i3IEHPcOduPHvWuNYunciPokkrKU1EsrqcvB8HbhBLhbJ775hpOwDO2e8KTlDpdQ+izkkKCla53OnlDXPcbEtZbxcQI2hoPaSepbosVyVoZoKOCGd4kmjjax7wSQSMsiQCcrC5G5ZVUEREBERAWB5W8kKXSUbWVLC7AcTHNOF7ekB3Qd44dCzyIOJ8p/oOvIw0Dw2M5PZK48w/WaQ0lwt5v55bZB9DuigxofA5zgAHO1swBNsyBjyuc7LoCKYutHH0R6Hy/VNnTLOf41cxfRholuyii7TI74uK29FUa1HyA0W3ZQ0vbGD8Vdw8kaBnk0VIOEMe77KzSILBmhKYZCngHCNg+SqN0XANkMI4Mb+Su0QW7aCIbIoxwa38lLwSP6jPZH5KsiCk2mYNjGD7IVVEQEREBaJy6+jSCuxSxWhqduIDmSH/qNG/0hnxW9og+WtLciq+J5Y6kncRvYx0jT1tc0WIWLk5J1v9Dq/wAGT8l9cosdNa2PkaPkhXHZRVf4Mn5KszkdX/0Kq/Bf+S+s0TpNcJ+jr6K5XytnrojHCznCJ1sUjtwc3a1g2kHM7Nl13UC2S9RakxLdERFUEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREH/9k=",
+    "price": 430,
+    "ratings": 4.2,
+    "review": "Cools engine quickly.",
+    "description": "High-capacity radiator for cooling systems."
+  },
+  {
+    "id": 11,
+    "name": "Transmission Filter",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDVcend5amQekY7rSVC2ldm1YPPpG44qV4qA&s",
+    "price": 60,
+    "ratings": 4.1,
+    "review": "Smooth shifting.",
+    "description": "Protects transmission by filtering debris."
+  },
+  {
+    "id": 12,
+    "name": "Air Filter",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpErDifpnYkGgo9NkyiztGhFCtxYCPblVGPA&s",
+    "price": 35,
+    "ratings": 4.9,
+    "review": "Keeps engine clean and running smooth.",
+    "description": "High-efficiency air filter for heavy-duty engines."
+  },
+  {
+    "id": 13,
+    "name": "Gearbox",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwE3-iD5qF1xDO9pD2cYFYQ0L4x8lDW9RurQ&s",
+    "price": 1200,
+    "ratings": 4.6,
+    "review": "Very reliable performance.",
+    "description": "Manual gearbox for construction trucks."
+  },
+  {
+    "id": 14,
+    "name": "Final Drive Motor",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjadWF6rY-r6NmPPefY5bVeCNPca6Pw7KNCQ&s",
+    "price": 890,
+    "ratings": 4.4,
+    "review": "Powerful drive system.",
+    "description": "Hydraulic final drive for excavators."
+  },
+  {
+    "id": 15,
+    "name": "Track Chain",
+    "image": "https://cpimg.tistatic.com/08037890/b/4/JCB-Track-Chain.jpg",
+    "price": 700,
+    "ratings": 4.3,
+    "review": "Good wear resistance.",
+    "description": "Forged steel track chain for crawlers."
+  },
+  {
+    "id": 16,
+    "name": "Control Lever",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBdNX_CPQXlFRCPDyuK4mlYt2yD64wS9EWBw&s",
+    "price": 95,
+    "ratings": 4.1,
+    "review": "Responsive and ergonomic.",
+    "description": "Joystick lever for excavator control."
+  },
+  {
+    "id": 17,
+    "name": "Backup Alarm",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjFlrXf5E3BkKc8htDbNzYW3LjHMLHDbYLA&s",
+    "price": 25,
+    "ratings": 4.0,
+    "review": "Loud and clear sound.",
+    "description": "Safety alarm for reversing machinery."
+  },
+  {
+    "id": 18,
+    "name": "Grease Gun",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDRq9ZpEV_126Zcytneb3Uf2K-zDMcrS0dEg&s",
+    "price": 40,
+    "ratings": 4.5,
+    "review": "Works flawlessly.",
+    "description": "Handheld grease gun for maintenance."
+  },
+  {
+    "id": 19,
+    "name": "Hydraulic Hose",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTST7hxARQBwOEDDYMa7x28YnZfDgYrObAU8A&s",
+    "price": 85,
+    "ratings": 4.2,
+    "review": "Strong and flexible.",
+    "description": "High-pressure hydraulic hose for fluid systems."
+  },
+  {
+    "id": 20,
+    "name": "Oil Cooler",
+    "image": "https://i.ebayimg.com/images/g/k4oAAOSwxbNdz9tv/s-l1200.jpg",
+    "price": 250,
+    "ratings": 4.6,
+    "review": "Improved oil temperature control.",
+    "description": "Aluminum plate oil cooler for engines."
+  },
+  {
+    "id": 21,
+    "name": "Quick Coupler",
+    "image": "data:image/jpeg;base64,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",
+    "price": 520,
+    "ratings": 4.5,
+    "review": "Fast and secure tool changes.",
+    "description": "Quick attach coupler for excavator attachments."
+  },
+  {
+    "id": 22,
+    "name": "Track Shoe",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6o0SuAKWnKivHhTvtp8tCxoeh49ZnqUl73w&s",
+    "price": 280,
+    "ratings": 4.3,
+    "review": "Excellent grip and durability.",
+    "description": "Bolt-on track shoe for crawlers."
+  },
+  {
+    "id": 23,
+    "name": "Battery",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7j6NKIdKU8jKTZTgZb2zwgwg8-Dn3Iptj-g&s",
+    "price": 160,
+    "ratings": 4.7,
+    "review": "Starts reliably every time.",
+    "description": "Heavy-duty 12V battery for construction vehicles."
+  },
+  {
+    "id": 24,
+    "name": "LED Work Light",
+    "image": "https://images-cdn.ubuy.co.in/67a5e49310680c12ff3e178f-jcb-12-24v-led-work-light-335-d1532.jpg",
+    "price": 45,
+    "ratings": 4.9,
+    "review": "Bright and durable.",
+    "description": "Weatherproof LED light for work zones."
+  },
+  {
+    "id": 25,
+    "name": "Tire (Front Loader)",
+    "image": "https://www.apollotyres.com/content/dam/orbit/syncforce/products/2201/T0016913.png.transform/plp-image/image.png",
+    "price": 680,
+    "ratings": 4.4,
+    "review": "Excellent traction and longevity.",
+    "description": "High-grip tire for front loaders."
+  },
+  {
+    "id": 26,
+    "name": "Turbocharger",
+    "image": "https://www.chrisbeardaps.co.uk/wp-content/uploads/2021/08/320.06048.1.jpg",
+    "price": 790,
+    "ratings": 4.6,
+    "review": "Boosts engine performance.",
+    "description": "OEM turbocharger for diesel engines."
+  },
+  {
+    "id": 27,
+    "name": "Fan Belt",
+    "image": "https://m.media-amazon.com/images/I/61dibTFnMgL._AC_UF1000,1000_QL80_.jpg",
+    "price": 30,
+    "ratings": 4.1,
+    "review": "Runs smooth and silent.",
+    "description": "Rubber V-belt for cooling fan systems."
+  },
+  {
+    "id": 28,
+    "name": "Exhaust Muffler",
+    "image": "https://cdn11.bigcommerce.com/s-knh0cnq2u8/images/stencil/original/products/12599/56009/JCB_444-Tier_2_Turbo_Engine_Exhaust_Muffler__05366.1721356423.png?c=2",
+    "price": 240,
+    "ratings": 4.3,
+    "review": "Reduces engine noise.",
+    "description": "Steel muffler for diesel exhaust systems."
+  },
+  {
+    "id": 29,
+    "name": "Control Panel",
+    "image": "https://cgrobinsonparts.co.uk/cdn/shop/files/400.f5351HEATERPANELAC.jpg?v=1725002840&width=1920",
+    "price": 1120,
+    "ratings": 4.7,
+    "review": "All functions in one place.",
+    "description": "Digital control interface for advanced equipment."
+  },
+  {
+    "id": 30,
+    "name": "Joystick Handle",
+    "image": "https://www.chrisbeardaps.co.uk/wp-content/uploads/2023/07/25.223715-1-scaled.jpg",
+    "price": 130,
+    "ratings": 4.4,
+    "review": "Very ergonomic.",
+    "description": "Replacement joystick for hydraulic machines."
+  },
+  {
+    "id": 31,
+    "name": "Boom Cylinder",
+    "image": "https://4.imimg.com/data4/HO/QY/MY-3265601/jcb-hydraulic-cylinder-500x500.jpg",
+    "price": 1500,
+    "ratings": 4.5,
+    "review": "Powerful hydraulic movement.",
+    "description": "Main lifting cylinder for excavators."
+  },
+  {
+    "id": 32,
+    "name": "Seal Kit",
+    "image": "https://5.imimg.com/data5/HW/TX/MY-9939166/jcb-3dx-seal-kit-332y-6519-500x500.jpg",
+    "price": 55,
+    "ratings": 4.6,
+    "review": "Stops all leaks.",
+    "description": "Hydraulic cylinder seal replacement kit."
+  },
+  {
+    "id": 33,
+    "name": "Hose Clamp",
+    "image": "https://shop.watling-jcb.com/cdn/shop/products/821_00280_HOSE_CLAMP.jpg?v=1691414951",
+    "price": 12,
+    "ratings": 4.2,
+    "review": "Holds tightly with no leaks.",
+    "description": "Steel clamp for hose fitting connections."
+  }
+]
