@@ -309,7 +309,7 @@ export default function BillingSoftware() {
                   Save
                 </button>
                 <button
-                  className="bg-yellow-700 shadow-lg mt-24 shadow-gray-400 text-white px-10 cursor-pointer rounded-xl font-bold hover:bg-yellow-800 transition text-lg"
+                  className="shadow-lg mt-24 shadow-gray-400 text-white px-10 cursor-pointer rounded-xl font-bold hover:bg-yellow-800 transition text-lg"
                   onClick={() => {
                     setHideSections(true);
                     setTimeout(() => {
